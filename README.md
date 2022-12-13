@@ -12,7 +12,7 @@ I'm a full stack developer.
 
 ## Tech Stack
 
-**Client:** ReactJS, NuxtJS, React Native, Flutter, Vuetify, BootStrap, Mui
+**Client:** ReactJS, VueJS, React Native, Flutter, Vuetify, BootStrap, Mui
 
 **Server:** Node, Express, PHP
 

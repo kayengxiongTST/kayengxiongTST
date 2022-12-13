@@ -15,3 +15,7 @@ I'm a full stack developer.
 **Client:** ReactJS, NuxtJS, React Native, Flutter, Vuetify, BootStrap, Mui
 
 **Server:** Node, Express, PHP
+
+## 🛠 Skills
+Javascript
+

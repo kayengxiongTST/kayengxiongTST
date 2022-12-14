@@ -10,6 +10,8 @@ Both frontend and backend development with 3+ years of experience in 3 software 
 I'm a full stack developer.
 
 
+
+
 ## Tech Stack
 
 **Client:** ReactJS, VueJS, React Native, Flutter, Vuetify, BootStrap, Mui
@@ -19,4 +21,10 @@ I'm a full stack developer.
 ## 🛠 Skills
 Javascript
 
-![1643361645565-14_DSC0024](https://user-images.githubusercontent.com/104555848/207585010-ce000821-d7a7-433c-b469-af8568311512.JPG)
+
+## Education
+
+| Year | Description |
+| --- | --- |
+| 2017-2021 | English higher diploma at Sirimongkhoun college |
+| 2017-2022 | Bachelor of Website Development at National University of Laos |

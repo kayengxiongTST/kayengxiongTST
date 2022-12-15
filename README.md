@@ -44,4 +44,4 @@ Javascript
 - [iPay.la (IOS)](https://apps.apple.com/la/app/ipay/id1618374259), [iPay.la (Android)](https://play.google.com/store/apps/details?id=com.itcapital.ipay.la), The mobile application which includes Phone Bill Payment, EShopping, Train Ticket Booking, ELeaning.
 - DNS THAI-LAO Express, The website for tracking and products tracking management.
 - [Online Casino](https://cslvault.com/), The website which has thousands of Casino Games to play.
-- I am also working on [GitLab](https://gitlab.com/kayengxiongTST) also.
+- I am also working with a lot of private projects on [GitLab](https://gitlab.com/kayengxiongTST).

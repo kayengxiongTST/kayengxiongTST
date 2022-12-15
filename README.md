@@ -14,9 +14,10 @@ I'm a full stack developer.
 
 ## My programming skills
 
-**Client:** ReactJS, VueJS, React Native, Flutter, Vuetify, BootStrap, Mui
+**Frontend :** ReactJS, VueJS, React Native, Flutter, Vuetify, BootStrap, Mui
 
-**Server:** Node, Express, PHP
+**Backend :** Node, Express, PHP
+
 
 
 ## Education

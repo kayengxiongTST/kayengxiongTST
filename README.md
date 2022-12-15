@@ -12,14 +12,12 @@ I'm a full stack developer.
 
 
 
-## Tech Stack
+## My programming skills
 
 **Client:** ReactJS, VueJS, React Native, Flutter, Vuetify, BootStrap, Mui
 
 **Server:** Node, Express, PHP
 
-## 🛠 Skills
-Javascript
 
 ## Education
 * 2017-2021, English higher diploma at Sirimongkhoun college

@@ -48,12 +48,12 @@ I'm a full stack developer.
 
 ## Working Experiences
 #### Oct 2018 - JAN 2020
-- Front end developer at lailaolab ict solution
-#### OCT 2021 - Mar 2022
-- Full stack developer at IT Capital Sole CO.,LTD
+- Front End Developer at LaiLaoLab ICT Solution
+#### OCTE2021 - Mar 2022
+- Full stack and DevOps Developer at IT Capital Sole CO.,LTD
 #### OCT 2020 - Mar 2022
-- Freelanc developer
+- Freelance Developer
 #### May 2022 - Now
-- Frontend developer at SKV Group
+- Frontend Developer at SKV Group
 
 

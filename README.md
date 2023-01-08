@@ -19,7 +19,7 @@ Both frontend and backend development with 3+ years of experience in 3 software 
 
 ## Awards
 * April 2018, 2nd prize of Microsoft Office Specialist in Laos.
-* May 2019, got a consolation prize LAOS annual ICT awards.
+* May 2019, got a consolation prize for LAOS annual ICT awards.
 * Jan 2020 - Jan 2021, Erasmus+ programe exchange in Sweden.
 
 ## Skills

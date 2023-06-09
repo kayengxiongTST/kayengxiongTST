@@ -36,9 +36,10 @@ Both frontend and backend development with 3+ years of experience in 3 software 
 ### Previous Projects
 - [Laos IT Capital](https://itcapital.la/), The company landing website.
 - [iPay.la (IOS)](https://apps.apple.com/la/app/ipay/id1618374259), [iPay.la (Android)](https://play.google.com/store/apps/details?id=com.itcapital.ipay.la), The mobile application which includes Phone Bill Payment, EShopping, Train Ticket Booking, ELeaning.
-- [Online Casino](https://cslvault.com/), The website which has thousands of Casino Games to play.
+- [Online Casino](https://acesasia.com/), [Online Casino](https://vru66.com/)The website which has thousands of Casino Games to play.
 - DNS THAI-LAO Express, The website for tracking and products tracking management.
 - Family MLM System.
+- CMS.
 - I am also working with a lot of private projects on [My GitLab Activities](https://gitlab.com/kayengxiongTST).
 
 ## Working Experiences

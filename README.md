@@ -40,7 +40,6 @@ Both frontend and backend development with 3+ years of experience in 3 software 
 - DNS THAI-LAO Express, The website for tracking and products tracking management.
 - Family MLM System.
 - CMS.
-- I am also working with a lot of private projects on [My GitLab Activities](https://gitlab.com/kayengxiongTST).
 
 ## Working Experiences
 #### Oct 2018 - Jan 2020

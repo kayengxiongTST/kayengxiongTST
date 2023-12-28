@@ -51,4 +51,5 @@ Both frontend and backend development with 3+ years of experience in 3 software 
 #### May 2022 - Now
 - Frontend Developer at SKV Group
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kayengxiongTST)](https://git.io/streak-stats)
 

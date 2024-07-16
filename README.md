@@ -9,7 +9,7 @@ Both frontend and backend development with 3+ years of experience in 3 software 
 
 **Frontend :** ReactJS, VueJS, React Native, Flutter, Vuetify, BootStrap, Mui
 
-**Backend :** Node, Express, PHP
+**Backend :** Node, Express, PHP, NestJS
 
 
 
@@ -32,6 +32,7 @@ Both frontend and backend development with 3+ years of experience in 3 software 
 - Laravel
 - Node JS
 - SQL + NoSQL
+- TypeScript
  
 ### Previous Projects
 - [Laos IT Capital](https://itcapital.la/), The company landing website.

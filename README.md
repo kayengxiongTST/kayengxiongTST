@@ -5,7 +5,7 @@ Both frontend and backend development with 3+ years of experience in 3 software 
 
 
 
-## My programming skills
+## :computer: My programming skills
 
 **Frontend :** ReactJS, VueJS, React Native, Flutter, Vuetify, BootStrap, Mui
 
@@ -22,7 +22,7 @@ Both frontend and backend development with 3+ years of experience in 3 software 
 * May 2019, got a consolation prize for LAOS annual ICT awards.
 * Jan 2020 - Jan 2021, Erasmus+ programe exchange in Sweden.
 
-## Skills
+## :computer: Skills
 ### Programming languagues
 - HTML + CSS + JavaScript
 - React JS
@@ -35,7 +35,7 @@ Both frontend and backend development with 3+ years of experience in 3 software 
 - TypeScript
 
 
-## Working Experiences
+## :date: Working Experiences
 #### Oct 2018 - Jan 2020
 - Front End Developer at LaiLaoLab ICT Solution
 #### Oct 2021 - Mar 2022

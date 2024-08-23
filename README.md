@@ -13,7 +13,7 @@ Both frontend and backend development with 3+ years of experience in 3 software 
 
 
 
-## Education
+## :books: Education
 * 2017-2021, English higher diploma at Sirimongkhoun college
 * 2017-2022, Bachelor of Website Development at National University of Laos
 

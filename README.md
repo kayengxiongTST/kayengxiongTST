@@ -61,6 +61,8 @@
 
 ## 📊 **GitHub Stats**
 
+[![committers.top badge](https://user-badge.committers.top/laos_private/USERNAME.svg)](https://user-badge.committers.top/laos_private/USERNAME)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kayengxiongTST&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayengxiongTST&layout=compact&theme=highcontrast&hide_border=true)](https://github.com/kayengxiongTST)
